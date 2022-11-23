@@ -1,5 +1,5 @@
-<h1 align="center">🚀 About Me Giovanni Campagnolo:</h1>
-<h3 align="center">A Software Engineer Flutter Developer</h3>
+<h1 align="center">🚀 About Me Giovanni Campagnolo 🚀</h1>
+<h3 align="center">💻 A Software Engineer Flutter Developer 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannicampagnolo&label=Profile%20views&color=0e75b6&style=flat" alt="giovannicampagnolo" /> </p>
 
