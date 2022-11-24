@@ -1,7 +1,8 @@
 <h1 align="center">🚀 About Me Giovanni Campagnolo 🚀</h1>
 <h3 align="center">💻 A Software Engineer Flutter Developer 💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannicampagnolo&label=Profile%20views&color=0e75b6&style=flat" alt="giovannicampagnolo" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=giovannicampagnolo&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy/?"><img src="https://github-profile-trophy.vercel.app/?username=giovannicampagnolo&theme=onedark" alt="giovannicampagnolo" /></a> </p>
 
