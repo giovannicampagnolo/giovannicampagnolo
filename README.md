@@ -41,7 +41,7 @@
 <br/>
 </div>
 <br/>
-<div align="center">
-  <img style="margin: auto" src="https://github-readme-streak-stats.herokuapp.com/?user=giovannicampagnolo&theme=onedark" alt="giovannicampagnolo" />
-</div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=giovannicampagnolo&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=giovannicampagnolo&theme=onedark&hide_border=false)<br/>
