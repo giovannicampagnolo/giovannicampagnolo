@@ -1,47 +1,86 @@
-<h1 align="center">🚀 About Me Giovanni Campagnolo 🚀</h1>
-<h3 align="center">💻 A Software Engineer Flutter Developer 💻</h3>
+<h1 align="center">🚀 Giovanni Campagnolo</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Full-Stack+Software+Engineer;Flutter+%7C+Next.js+%7C+Docker;AI+Enthusiast+%F0%9F%A4%96" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/giovanni-campagnolo-825b81129" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:giovanni.campagnolo.2405@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/giovanni.campagnolo_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy/?"><img src="https://github-profile-trophy.vercel.app/?username=giovannicampagnolo&theme=onedark" alt="giovannicampagnolo" /></a> </p>
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🚀 **Full-Stack Software Engineer**
+- 📱 Mobile first con **Flutter**, Web con **Next.js**
+- 🤖 **AI Enthusiast** (LLM, automations, AI-powered apps)
+- 🎓 Bachelor Degree in Computer Science Engineering
+- 🧠 Clean architecture, performance e UX
+- ⚽ Fun fact: anche **football player**
 
-- 📱 mobile developer **-flutter-**
+---
 
-- 🌱 I’m currently learning **tech**
+## ✨ What I Like Building
 
-- 💻 Computer Science Engineer **Bachelor Degree**
+- 📱 **Mobile apps** scalabili (Flutter)
+- 🌐 **Web apps** moderne e performanti (Next.js)
+- 🔌 **API & Backend** ben documentati (OpenAPI)
+- 🤖 **AI-powered features** (chatbot, automazioni, smart UX)
+- ⚙️ **DevOps ready apps** (Docker, CI mindset)
 
-- 🚀 Blockchain Enthusiast [$$$]($$$)
+---
 
-- 💬 Ask me about **flutter**
+## 🛠 Tech Stack
 
-- 📫 How to reach me **giovanni.campagnolo.2405@gmail.com**
-
-- ⚡ Fun fact **Also Football player ⚽︎**
-
-
-<h3 align="center">🌐 Socials:</h3>
+### 📱 Mobile & Frontend
 <p align="center">
-<a href="https://linkedin.com/in/giovanni-campagnolo-825b81129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovanni-campagnolo-825b81129" height="30" width="40" /></a>
-<a href="https://instagram.com/giovanni.campagnolo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giovanni.campagnolo_" height="30" width="40" /></a>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="42"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="42"/>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<h3 align="center"> 📱 LANGUAGES AND TOOLS USED FOR WORK:</h3>
-<p align="center"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+### 🧠 Backend, API & AI
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="42"/>
+  <img src="https://docs.amplify.aws/assets/logo-dark.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
 </p>
 
-<h3 align="center"> 💻 LANGUAGES AND TOOLS STUDIED:</h3>
+### ⚙️ DevOps & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42"/>
+</p>
 
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br/>
-<br/>
-</div>
-<br/>
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=giovannicampagnolo&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=giovannicampagnolo&theme=onedark&hide_border=false)<br/>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giovannicampagnolo&theme=onedark&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=giovannicampagnolo&theme=onedark" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Build clean. Ship fast. Improve constantly.”</i>
+</p>
